@@ -11,8 +11,6 @@ body {
 }
 
 .wrapper {
-  position: absolute;
-  top: 0px;
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
@@ -25,6 +23,7 @@ h1 {
   font-size:80px;
   height:50px;
   box-sizing: border-box;
+  margin: 0px;
 }
 
 h2 {
